@@ -4,7 +4,7 @@ TalkToPDF is a Retrieval-Augmented Generation (RAG) system that allows users to 
 
 # Code Flow Diagram
 
-![Image](https://github.com/AsharAli2/TalkToPdf/issues/1#issue-3265424505)
+![Image](https://github.com/user-attachments/assets/b922a467-7979-45eb-8e04-a54924b6896f)
 
 # Project Workflow
 
