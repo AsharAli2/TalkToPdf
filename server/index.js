@@ -8,7 +8,7 @@ import { QdrantVectorStore } from "@langchain/qdrant";
 import { GoogleGenerativeAIEmbeddings } from "@langchain/google-genai";
 import { TaskType } from "@google/generative-ai";
 import { GoogleGenAI } from "@google/genai";
-const ai = new GoogleGenAI({ apiKey: "AIzaSyDYwaU7O_BQRcidaITAxTg2fKJf1W8kejg" });
+const ai = new GoogleGenAI({ apiKey: process.env.GOOGLE_API_KEY });
 
 import IORedis from 'ioredis';
 
